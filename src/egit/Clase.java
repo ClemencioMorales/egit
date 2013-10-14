@@ -17,4 +17,6 @@ public class Clase {
 	private void m8(){}
 	
 	private void m9(){}
+	
+	private void m10(){}
 }
