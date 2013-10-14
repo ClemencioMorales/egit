@@ -12,5 +12,5 @@ public class Clase {
 	
 	private void m6(){}
 	
-	private void m7(){}
+	private void mSiete(){}
 }
