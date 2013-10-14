@@ -7,4 +7,6 @@ public class Clase {
 	private void m3(){}
 	
 	private void m4(){}
+	
+	private void m5(){}
 }
