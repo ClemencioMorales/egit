@@ -13,4 +13,8 @@ public class Clase {
 	private void m6(){}
 	
 	private void m7(){}//Comentario
+	
+	private void m8(){}
+	
+	private void m9(){}
 }
