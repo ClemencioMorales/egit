@@ -13,4 +13,5 @@ public class Clase {
 	private void m6(){}
 	
 	private void mSiete(){}
+	private void mOcho(){}
 }
