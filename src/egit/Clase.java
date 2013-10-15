@@ -2,21 +2,23 @@ package egit;
 
 public class Clase {
 
-	private void m1(){}
-	private void m2(){}
-	private void m3(){}
+	public void m1(){}
+	public void m2(){}
+	public void m3(){}
 	
-	private void m4(){}
+	public void m4(){}
 	
-	private void m5(){}
+	public void m5(){}
 	
-	private void m6(){}
+	public void m6(){}
 	
-	private void m7(){}//Comentario
+	public void m7(){}//Comentario
 	
-	private void m8(){}
+	public void m8(){}
 	
-	private void m9(){}
+	public void m9(){}
 	
-	private void m10(){}
+	public void m10(){}
+	
+	public void m11(){}//bug
 }
