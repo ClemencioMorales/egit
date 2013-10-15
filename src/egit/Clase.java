@@ -20,5 +20,7 @@ public class Clase {
 	
 	public void m10(){}
 	
-	public void m11(){}//bug
+	public void m11(){}
+	
+	public void m12(){}//Se arregla el bug con este método
 }
