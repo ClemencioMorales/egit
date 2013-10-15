@@ -12,7 +12,8 @@ public class Clase {
 	
 	public void m6(){}
 	
-	//Desaparecen ciertos métodos.
+	public void mSiete(){}
+	
 	
 	
 	
