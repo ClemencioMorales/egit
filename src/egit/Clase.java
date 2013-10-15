@@ -13,8 +13,11 @@ public class Clase {
 	public void m6(){}
 	
 	public void mSiete(){}
+	public void m8(){}
+	public void m9(){}
+	public void m10(){}
 	
+	public void m11(){}
 	
-	
-	
+	public void m12(){}//Se arregla el bug con este método
 }
